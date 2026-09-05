@@ -243,7 +243,7 @@ The complete analysis, including data preparation, exploratory analysis, feature
 ## Author
 
 **Albina Gumennaia**
-Springboard Data Science Career Track
 
+Springboard Data Science Career Track
 M.S. Business Analytics  
 Baruch College, Zicklin School of Business
