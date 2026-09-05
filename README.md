@@ -245,5 +245,6 @@ The complete analysis, including data preparation, exploratory analysis, feature
 **Albina Gumennaia**
 
 Springboard Data Science Career Track
+
 M.S. Business Analytics  
 Baruch College, Zicklin School of Business
