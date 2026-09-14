@@ -238,7 +238,7 @@ The repository contains the complete project analysis and supporting materials:
 
 - **Jupyter Notebook:** `forecasting_corporate_credit_spreads.ipynb` — complete analysis, including data preparation, exploratory analysis, feature engineering, forecasting models, expanding-window evaluation, directional forecasting, and statistical testing.
 
-- **Presentation:** `Corporate_Credit_Spread_Forecasting.pdf` — summary of the research methodology, forecasting results, and conclusions.
+- **Presentation:** `Corporate_Credit_Spread_Forecasting_Presentation.pdf` — summary of the research methodology, forecasting results, and conclusions.
 
 - **Project Report:** `Corporate_Credit_Spread_Forecasting_Report.pdf` — detailed discussion of the research question, methodology, results, limitations, and conclusions.
 
