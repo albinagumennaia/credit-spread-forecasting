@@ -236,7 +236,7 @@ Future work could therefore focus on expanding the release-aware dataset, incorp
 
 The repository contains the complete project analysis and supporting materials:
 
-- **Jupyter Notebook:** `forecasting_corporate_credit_spreads.ipynb` — complete analysis, including data preparation, exploratory analysis, feature engineering, forecasting models, expanding-window evaluation, directional forecasting, and statistical testing.
+- **Jupyter Notebook:** `corporate_credit_spread_forecasting.ipynb` — complete analysis, including data preparation, exploratory analysis, feature engineering, forecasting models, expanding-window evaluation, directional forecasting, and statistical testing.
 
 - **Presentation:** `Corporate_Credit_Spread_Forecasting_Presentation.pdf` — summary of the research methodology, forecasting results, and conclusions.
 
